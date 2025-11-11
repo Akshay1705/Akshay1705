@@ -1,5 +1,8 @@
 <h1 align="center">Hey 👋, I'm Akshay Parekh</h1>
-<h3 align="center">🚀 Full Stack + AI-Powered Web Developer (Next.js + Gemini API)</h3>
+<h3 align="center">
+  💻 Full Stack Developer & AI Innovator <br/>
+  ⚙️ MERN Stack • ⚡ PHP + Laravel • 🧠 Next.js + Gemini API • 🎨 TailwindCSS
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=💻+Full+Stack+%2B+AI-Powered+Web+Developer;⚡+Building+Next.js+%2B+Gemini+Projects;🧠+Passionate+About+GenAI+%26+Real+World+Impact;🎯+Learning%2C+Building%2C+Evolving+Daily" alt="Typing SVG" />
